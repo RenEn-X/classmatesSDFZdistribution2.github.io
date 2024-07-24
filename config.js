@@ -1,9 +1,9 @@
 /** 更多样式 http://developer.baidu.com/map/custom/list.htm */
-var MAP_STYLE = "hardedge";
+var MAP_STYLE = "grassgreen";
 
 var DATA = {
-	"city_1" : {
-		"univ_A" : ["Peter", "Mary"],
+	"成都" : {
+		"四川大学 : ["Peter", "Mary"],
 		"univ_B" : ["Tony", "Pepper"]
 	},
 
